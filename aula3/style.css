@@ -1,0 +1,14 @@
+.vermelho{
+    background-color: brown;
+    color: wheat;
+}
+.verde{
+    background-color: red;
+}
+.azul{
+    color: blue;
+}
+body{
+    background-color: gray;
+    text-align: center;
+}

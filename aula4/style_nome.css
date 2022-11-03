@@ -1,0 +1,20 @@
+.cor1 { background-color: red;}
+.cor2 { background-color: lightgreen}
+.cor3 { background-color: blue;}
+.cor4 { background-color: yellow;}
+.cor5 { background-color: lightslategray;}
+.cor6 { 
+    background-color: black;
+    color: white;
+}
+.cor8 {background-color: lightgreen;}
+h1{
+    background-color: darkslategray;
+}
+.fundo{
+    background-color: navy;
+}
+
+.cor1, .cor3, .cor5,.cor6, .cor4, .cor2 {
+    text-align: center;
+}
