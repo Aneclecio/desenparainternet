@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cor1{
     background-color: hsl(0,100%,50%,0.5);
     color:hsl(180,50%,100%);
@@ -12,4 +13,20 @@
 }
 .cor4{
     background-color: hsl(240,100%,50%,0.1);
+=======
+.cor1{
+    background-color: hsl(0,100%,50%,0.5);
+    color:hsl(180,50%,100%);
+}
+.cor2{
+    background-color: hsl(100,50%,50%,0.5);
+    color:hsl(180,50%,100%);
+}
+.cor3{
+    background-color: hsl(120,100%,50%,0.2);
+    color:hsl(180,50%,100%);
+}
+.cor4{
+    background-color: hsl(240,100%,50%,0.1);
+>>>>>>> a97f81940b50475323d4b2d8a5864c37b70977a1
 }

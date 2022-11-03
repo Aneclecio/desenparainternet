@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vermelho{
     background-color: brown;
     color: wheat;
@@ -12,3 +13,19 @@ body{
     background-color: gray;
     text-align: center;
 }
+=======
+.vermelho{
+    background-color: brown;
+    color: wheat;
+}
+.verde{
+    background-color: red;
+}
+.azul{
+    color: blue;
+}
+body{
+    background-color: gray;
+    text-align: center;
+}
+>>>>>>> a97f81940b50475323d4b2d8a5864c37b70977a1

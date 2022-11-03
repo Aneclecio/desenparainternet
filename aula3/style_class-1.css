@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .azul{
     background-color: blue;
 }
@@ -6,4 +7,14 @@
 }
 .amarelo{
     color:yellow;
+=======
+.azul{
+    background-color: blue;
+}
+.cinza{
+    color:grey;
+}
+.amarelo{
+    color:yellow;
+>>>>>>> a97f81940b50475323d4b2d8a5864c37b70977a1
 }
